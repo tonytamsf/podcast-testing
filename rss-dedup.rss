@@ -32,7 +32,7 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
-   <title>Verbose title of the episode</title>
+   <title>Verbose title of the episode3</title>
    <description>Verbose description of the episode.</description>
    <itunes:summary>Duplicate of above verbose description.</itunes:summary>
    <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
@@ -42,18 +42,5 @@
    <itunes:duration>H:MM:SS</itunes:duration>
    <pubDate>Fri, 05 Oct 2018 09:00:00 GMT</pubDate>
 </item>
-<item>
-   <title>Verbose title of the episode</title>
-   <description>Verbose description of the episode.</description>
-   <itunes:summary>Duplicate of above verbose description.</itunes:summary>
-   <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
-   <itunesu:category itunesu:code="112" />
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/rss.art19.com/episodes/d8e4cd2b-f587-4d82-9523-d15f5396fdb6.mp3" type="audio/mp3" length="1" />
-   <guid>https://www.YourSite.com/FILE.EXT2</guid>
-   <itunes:duration>H:MM:SS</itunes:duration>
-   <pubDate>Fri, 05 Oct 2018 09:00:01 GMT</pubDate>
-</item>
-<!--END REPEAT--> 
-
 </channel>
 </rss>
